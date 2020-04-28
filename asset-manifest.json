@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/advice_giver_react/static/css/main.985dabbd.chunk.css",
+    "main.js": "/advice_giver_react/static/js/main.6e7df5b4.chunk.js",
+    "main.js.map": "/advice_giver_react/static/js/main.6e7df5b4.chunk.js.map",
+    "runtime-main.js": "/advice_giver_react/static/js/runtime-main.9f037340.js",
+    "runtime-main.js.map": "/advice_giver_react/static/js/runtime-main.9f037340.js.map",
+    "static/js/2.8a4e4590.chunk.js": "/advice_giver_react/static/js/2.8a4e4590.chunk.js",
+    "static/js/2.8a4e4590.chunk.js.map": "/advice_giver_react/static/js/2.8a4e4590.chunk.js.map",
+    "index.html": "/advice_giver_react/index.html",
+    "precache-manifest.7ff5f9f637d630e0315a9d2c066a2c16.js": "/advice_giver_react/precache-manifest.7ff5f9f637d630e0315a9d2c066a2c16.js",
+    "service-worker.js": "/advice_giver_react/service-worker.js",
+    "static/css/main.985dabbd.chunk.css.map": "/advice_giver_react/static/css/main.985dabbd.chunk.css.map",
+    "static/js/2.8a4e4590.chunk.js.LICENSE.txt": "/advice_giver_react/static/js/2.8a4e4590.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/advice_giver_react/static/media/globe.eaa7f752.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f037340.js",
+    "static/js/2.8a4e4590.chunk.js",
+    "static/css/main.985dabbd.chunk.css",
+    "static/js/main.6e7df5b4.chunk.js"
+  ]
+}
