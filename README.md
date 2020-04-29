@@ -1,4 +1,4 @@
-This project was crated with `create-react-app`. 
+This project was created with `create-react-app`. 
 
 I made this to understand the API - callback in React. It is beginner level project.
 
