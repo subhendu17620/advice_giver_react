@@ -6,7 +6,7 @@ API source : `https://api.adviceslip.com/advice`
 
 This API generates random advice on every call. The website is deployed using `gh-pages`.
 
-### Technologies used: 
+### Dependencies: 
 
 * Axios
 
