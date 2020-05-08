@@ -1,4 +1,4 @@
-This project was created with `create-react-app`. 
+This is website gives you random advice. This project was created with `create-react-app`. 
 
 I made this to understand the API - callback in React. It is beginner level project.
 
@@ -11,3 +11,7 @@ This API generates random advice on every call. The website is deployed using `g
 * Axios
 
 The website is live at https://subhendu17620.github.io/advice_giver_react . 
+
+#### Screenshot
+
+<img src="Screenshot/1.png">
